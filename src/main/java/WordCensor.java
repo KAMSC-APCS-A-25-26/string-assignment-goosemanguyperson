@@ -16,5 +16,6 @@ public class WordCensor {
         // sample output
         // oh gosh dangit, yikesy yowza, whoops! awh nuts!
         // Censored: oh gosh ***it, ***y yowza, wh***! awh ***!
+        //ao ghawoughaio
     }
 }

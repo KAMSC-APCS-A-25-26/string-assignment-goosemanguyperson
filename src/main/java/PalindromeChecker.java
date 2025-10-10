@@ -41,5 +41,6 @@ public class PalindromeChecker {
         else {
             System.out.println(inString + " is not a palindrome");
         }
+        // afgioawhguo
     }
 }
